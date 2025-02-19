@@ -14,3 +14,5 @@ console.log(a);
 for(let i=0;i<Array.length;i++){
     Array[i]
 }
+
+ 
